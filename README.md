@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 [![Blog](https://img.shields.io/badge/Blog-blindshaft.github.io-blueviolet)](https://blindshaft.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-li--zhou--2019-informational)](https://www.linkedin.com/in/li-zhou-2019/)
-
+<!--
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/blindshaft)
+[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/blindshaft)-->
 
 **Coding:**
 
@@ -41,10 +41,12 @@ Here are some ideas to get you started:
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/neovim.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rstudio.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pycharm.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/webstorm.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clion.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/intellijidea.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rstudio.svg"></code>
 
 **OS**:
 
